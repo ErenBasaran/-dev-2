@@ -1,5 +1,5 @@
 Soru 1 Cevap :
-Select * from film
+select * from film
 where replacement_cost between 12.99 and 16.98 <br>
 Soru 2 Cevap :
 select first_name, last_name from actor
